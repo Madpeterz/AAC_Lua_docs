@@ -1,6 +1,8 @@
 # X2UI Lua API Documentation
 
 This document describes the API methods and functions used throughout the X2UI Lua codebase.
+not everything is supported by archeage classic via the addons system
+but its better than nothing
 
 ## Table of Contents
 
